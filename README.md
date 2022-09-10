@@ -1,2 +1,2 @@
-# cocoacodo-2022-frontend
-frontend Segudo cuatri
+# frontend-curriculum-2022
+frontend
